@@ -1,8 +1,8 @@
 # change this code
-number = 10
-second_number = 10
-first_array = []
-second_array = [1,2,3]
+number = 16
+second_number = ""
+first_array = [1,2,3]
+second_array = [1,2]
 
 if number > 15:
     print("1")
@@ -21,4 +21,3 @@ if first_array and first_array[0] == 1:
 
 if not second_number:
     print("6")
-
