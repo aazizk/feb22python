@@ -10,5 +10,10 @@ numbers = [
 
 # your code goes here
 for number in numbers:
+        # Check if x is even
 
-
+    if number % 2 == 0:
+        continue
+    print(number)
+    if number == 237:
+        break
